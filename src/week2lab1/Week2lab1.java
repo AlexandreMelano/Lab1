@@ -17,6 +17,7 @@ public class Week2lab1 {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println(" New Additions");
+        System.out.println("Another change");
     }
     
 }
